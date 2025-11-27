@@ -36,8 +36,10 @@ Specialized in **industrial & manufacturing websites**.
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,php,mysql,wordpress,git,figma,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,php,mysql,mongodb,wordpress,git,github,dart,flutter,androidstudio,ios,threejs,firebase,elementor" />
 </p>
+
+
 
 ---
 
@@ -70,7 +72,10 @@ Specialized in **industrial & manufacturing websites**.
 ## 💼 Services I Provide
 - WordPress & Custom Website Development  
 - Theme & Plugin Customization  
-- UI/UX Design  
+- UI/UX Design
+- Android Application Development
+- Flutter Based Application Development
+- IOS Application Development 
 - Landing Pages & Product Pages  
 - WooCommerce Integration  
 - Speed Optimization  
