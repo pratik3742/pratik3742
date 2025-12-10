@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=3500&pause=800&color=4da6ff&width=800&lines=Hi,+I'm+Pratik+Sidhdhapura;Founder+of+ExonityTech+%7C+Full+Stack+Developer+%7C+WordPress+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=3500&pause=800&color=4da6ff&width=800&lines=Hi,+I'm+Pratik+Sidhdhapura;Founder+of+Exonity+Tech+%7C+Full+Stack+Developer+%7C+WordPress+Expert" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -86,8 +86,7 @@ I build fast, SEO-optimized websites and scalable mobile applications for startu
 
 ---
 
-## ⭐ GitHub Stats
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratik3742&show_icons=true&theme=radical" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=pratik3742)
+
